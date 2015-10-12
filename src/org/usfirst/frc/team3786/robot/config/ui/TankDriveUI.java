@@ -5,7 +5,7 @@ import org.usfirst.frc.team3786.robot.config.ui.Controller;
 
 /**
  * 
- * @author manpreet
+ * @author manpreet @author alexanderw
  *
  */
 public class TankDriveUI extends UIConfig{	
